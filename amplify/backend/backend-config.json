@@ -43,5 +43,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "Amplify2bucket": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
